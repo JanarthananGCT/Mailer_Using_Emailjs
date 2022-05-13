@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+input {
+  min-width: 50rem;
+  border-radius: 10px;
+}
+textarea{
+width: 25rem;
+border-radius: 10px;
+}
+h1{
+  color: #61dafb;
+  font-size: 3rem;
+  font-weight: 500;
+}
